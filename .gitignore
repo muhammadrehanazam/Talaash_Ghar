@@ -1,0 +1,5 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore CatBoost logs and info
+catboost_info/
